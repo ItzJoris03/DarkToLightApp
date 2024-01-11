@@ -1,0 +1,36 @@
+{
+    "screens": {
+        "addAlarm": "",
+        "information": ""
+    },
+    "days": {
+        "sunday": "",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saterday": ""
+    },
+    "info": {
+        "version": "",
+        "created_by": ""
+    },
+    "buttons": {
+        "addAlarm": "",
+        "stopAlarm": "",
+        "startAlarm": "",
+        "removeAlarm": "",
+        "cancel": ""
+    },
+    "texts": {
+        "selectedAlarmsTitle": "",
+        "alarmInfo": "",
+        "alarmNameInputTitle": "",
+        "alarmNameInputPlaceholder": "",
+        "noSavedAlarmsTitle": "",
+        "noSavedAlarmsText": "",
+        "removeAlarmTitle": "",
+        "removeAlarmSubtext": ""
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "screens": {
+        "addAlarm": "Lägg till ett Larm",
+        "information": "Information"
+    },
+    "days": {
+        "sunday": "söndag",
+        "monday": "måndag",
+        "tuesday": "tisdag",
+        "wednesday": "onsdag",
+        "thursday": "torsdag",
+        "friday": "fredag",
+        "saterday": "lördag"
+    },
+    "info": {
+        "version": "Version",
+        "created_by": "Appen skapades av"
+    },
+    "buttons": {
+        "addAlarm": "Lägg till ett larm",
+        "saveAlarm": "Spara larmet",
+        "stopAlarm": "Stop Larmet",
+        "startAlarm": "Start larmet",
+        "removeAlarm": "Ta bort larmet",
+        "cancel": "Avbryta"
+    },
+    "texts": {
+        "selectedAlarmsTitle": "Nuvarande larm",
+        "alarmInfo": "Larmet slår på",
+        "alarmNameInputTitle": "Larm namn",
+        "alarmNameInputPlaceholder": "Skriv larm namn",
+        "noSavedAlarmsTitle": "Inga sparade larm",
+        "noSavedAlarmsText": "Tryck på plus-ikonen längst upp till vänster i appen så lägger vi till den här åt dig.",
+        "removeAlarmTitle": "Ta bort larmet?",
+        "removeAlarmSubtext": "Är du säker på att du vill ta bort larmet?",
+        "noActiveAlarmsTitle": "Inga aktiva larm",
+        "noActiveAlarmsSubtext": "Tryck på hjärta-ikonen längst ned till vänster i appen så lägger vi till den här åt dig."
+    }
+}

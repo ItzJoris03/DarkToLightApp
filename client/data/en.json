@@ -1,0 +1,39 @@
+{
+    "screens": {
+        "addAlarm": "Add a new Alarm",
+        "information": "Information"
+    },
+    "days": {
+        "sunday": "sunday",
+        "monday": "monday",
+        "tuesday": "tuesday",
+        "wednesday": "wednesday",
+        "thursday": "thursday",
+        "friday": "friday",
+        "saterday": "saterday"
+    },
+    "info": {
+        "version": "Version",
+        "created_by": "This app is created by"
+    },
+    "buttons": {
+        "addAlarm": "Add an alarm",
+        "saveAlarm": "Save the alarm",
+        "stopAlarm": "Stop the Alarm",
+        "startAlarm": "Start the alarm",
+        "removeAlarm": "Remove the alarm",
+        "cancel": "Cancel"
+    },
+    "texts": {
+        "selectedAlarmsTitle": "Current alarm",
+        "alarmInfo": "The alarm will go off at",
+        "alarmNameInputTitle": "Alarm name",
+        "alarmNameInputPlaceholder": "Enter alarm name",
+        "noSavedAlarmsTitle": "No saved alarms",
+        "noSavedAlarmsText": "Tap the plus icon in the top left of the app and we'll add it here for you.",
+        "removeAlarmTitle": "Remove alarm?",
+        "removeAlarmSubtext": "Are you sure want to remove this alarm?",
+        "noActiveAlarmsTitle": "No active alarm",
+        "noActiveAlarmsSubtext": "Tap the heart icon in the bottom left of the app and we'll add the information here."
+    }
+}

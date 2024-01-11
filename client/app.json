@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "client",
+    "slug": "client",
+    "version": "0.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f3f3f3"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#f3f3f3"
+      },
+      "permissions": [
+        "android.permission.BLUETOOTH",
+        "android.permission.BLUETOOTH_ADMIN",
+        "android.permission.BLUETOOTH_CONNECT"
+      ],
+      "package": "com.itzjoris03.client"
+    },
+    "plugins": [
+      "expo-localization",
+      "@config-plugins/react-native-ble-plx"
+    ]
+  },
+  "db": {
+    "alarms": "alarms.db",
+    "connections": "connections.db"
+  }
+}
